@@ -26,9 +26,7 @@
 
 ## 📸 Demo
 
-> 🔗 *Add your live link here (e.g., GitHub Pages, Vercel, Netlify)*
-
-![Fenix Demo](https://via.placeholder.com/900x400?text=Landing+Page+Screenshot)
+> 🔗 ![Fenix Demo](https://nufail-01.github.io/Fenix/)
 
 ---
 
