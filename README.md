@@ -45,7 +45,7 @@
 
 ## 📱 Mobile-First Focus
 
-This project is built with a **mobile-first approach**, ensuring the design looks stunning on **screen size** — from phones.
+This project is built with a **mobile-first approach**, ensuring the design looks stunning on **screen size** — from phones to desktops.
 
 ---
 
