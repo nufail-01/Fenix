@@ -24,12 +24,6 @@
 
 ---
 
-## 📸 Demo
-
-> 🔗 ![Fenix Demo](https://nufail-01.github.io/Fenix/)
-
----
-
 ## 🧰 Tech Stack
 
 | Technology | Description              |
