@@ -1,0 +1,350 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.main {
+    min-height: 100vh;
+    width: 100%;
+}
+
+/* ============================== Top ============================== */
+
+
+.top {
+    min-height: 60vh;
+    width: 100%;
+    background-image: url(./assets/images/top-banner.jpg);
+    background-position: 50% 28%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav {
+    width: 100%;
+    height: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav .logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 60px;
+}
+
+.logo p {
+    margin: 0 5px;
+    font-size: 22px;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    color: white;
+}
+
+.nav i {
+    padding: 10px 60px;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+}
+
+.logopara {
+    background-color: orangered;
+    border: 5px solid orangered;
+    border-radius: 50%;
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+}
+
+.overlay {
+    width: 100%;
+    min-height: inherit;
+    background-color: rgba(0, 0, 0, 0.197);
+    position: relative;
+}
+
+.text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    width: 100%;
+    bottom: 15%;
+    padding: 0 5vw;
+    color: #fff;
+
+}
+
+.text h1 {
+    font-size: 6vw;
+    font-weight: 500;
+    text-transform: capitalize;
+    font-weight: normal;
+}
+
+.textright {
+    display: flex;
+    width: 60%;
+    justify-content: space-between;
+}
+
+.textright p {
+    font-size: 14px;
+    width: 40%;
+    font-style: italic;
+}
+
+.icons i {
+    font-size: 25px;
+    margin: 0px 5px;
+}
+
+/* ============================== Bottom ============================== */
+
+.bottom {
+    min-height: 40vh;
+    width: 100%;
+    display: flex;
+}
+
+.bone {
+    width: 25%;
+    min-height: inherit;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.bone p {
+    font-weight: 500;
+    padding-left: 80px;
+    font-size: 2.3vh;
+}
+
+.bone .p1 {
+    margin-bottom: 15px;
+    opacity: 0.5;
+}
+
+
+.btwo {
+    width: 25%;
+    min-height: inherit;
+    background-image: url(./assets/images/flying.jpg);
+    object-fit: cover;
+    background-position: center center;
+}
+
+.bthree {
+    width: 25%;
+    min-height: inherit;
+}
+
+
+.bthree .top1 {
+    width: 100%;
+    min-height: 20vh;
+    background-color: orangered;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0;
+}
+
+.bthree .top1 p {
+    font-weight: 500;
+    padding-left: 80px;
+    font-size: 2.3vh;
+    text-transform: capitalize;
+    color: #fff;
+}
+
+
+.bthree .top1 .p2 {
+    margin-top: 15px;
+    opacity: 0.6;
+}
+
+.bthree .bottom1 {
+    width: 100%;
+    min-height: 20vh;
+    background-image: url(./assets/images/bottom-1.jpg);
+    object-fit: cover;
+    background-position: 80% 70%;
+}
+
+.bfour {
+    width: 25%;
+    min-height: inherit;
+    background-color: #57565A;
+    color: #fff;
+    padding: 30px;
+}
+
+.notf {
+    display: flex;
+}
+
+.notf .photo {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 10px;
+    margin-right: 0px;
+    background-image: url(./assets/images/model1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.notf .photo2 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 10px;
+    margin-right: 0px;
+    background-image: url(./assets/images/model2.jpg);
+    background-size: cover;
+    background-position: top;
+}
+
+.notf p {
+    width: 86%;
+    font-weight: 500;
+    padding-left: 20px;
+    font-size: 2.1vh;
+    margin-top: 10px;
+    line-height: 1.5;
+}
+
+.bfour h3 {
+    text-transform: capitalize;
+    margin-bottom: 15px;
+}
+
+
+/* ============================== Responsive ============================== */
+
+
+@media(max-width: 500px) {
+    .overlay .text {
+        flex-direction: column;
+        align-items: flex-start;
+        position: absolute;
+        bottom: 0;
+        padding: 0 20px;
+    }
+
+    .text {
+        font-size: 10vw;
+    }
+
+    .overlay .nav i {
+        padding-right: 12px;
+        font-size: 16px;
+    }
+
+    .nav .logo {
+        padding: 5px;
+    }
+
+    .logo p {
+        font-size: 14px;
+    }
+
+    .overlay .text .textright {
+        align-items: flex-start;
+        flex-direction: column;
+    }
+
+    .overlay .text .textright p {
+        width: inherit;
+        margin-top: 15px;
+        font-style: italic;
+        font-size: 12px;
+    }
+
+
+    .overlay .text .textright .icons {
+        font-size: 10px;
+    }
+
+    .icons i {
+        font-size: 16px;
+    }
+
+    .bottom {
+        flex-direction: column;
+        min-height: 40vh;
+    }
+
+    .bone {
+        width: 100%;
+    }
+
+    .bone .p1{
+        font-size: 25px;
+        
+    }
+    .bone p{
+        font-size: 16px;
+    }
+
+    .btwo {
+        width: 100%;
+    }
+
+    .bthree {
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .bthree .top1 p {
+        font-size: 16px;
+        line-height: 1.2;
+    }
+
+    .bthree .top1 .p2{
+        margin-top: 10px;
+    
+    }
+
+    .bfour {
+        width: 100%;
+    }
+
+    .bfour h3 {
+        font-size: 30px;
+    }
+
+    .bfour .notf p {
+        font-size: 15px;
+        margin-top: 22px;
+    }
+
+    .notf .photo {
+        width: 50px;
+        height: 50px;
+    }
+
+    .notf .photo2 {
+        width: 50px;
+        height: 50px;
+    }
+
+}
