@@ -34,15 +34,18 @@
 
 ## 🧰 Tech Stack
 
-- ✅ HTML5
-- ✅ CSS3
-- ✅ Responsive Design (Flexbox + Media Queries)
+| Technology | Description              |
+|------------|--------------------------|
+| HTML5      | Markup structure         |
+| CSS3       | Styling and layout       |
+| Flexbox    | Responsive layout engine |
+| Media Queries | Device-specific styling |
 
 ---
 
 ## 📱 Mobile-First Focus
 
-This project is built with a **mobile-first approach**, ensuring the design looks stunning on **all screen sizes** — from phones to desktops.
+This project is built with a **mobile-first approach**, ensuring the design looks stunning on **screen size** — from phones.
 
 ---
 
