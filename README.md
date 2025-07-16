@@ -41,14 +41,10 @@ This project is built with a **mobile-first approach**, ensuring the design look
 
 ---
 
-### 🔗 Live Demo
+## 🔗 Live Demo
 
-[![Website Preview](assets/images/lorukiwebsite.png
-)](https://(https://nufail-01.github.io/Fenix/))
-
-## 🌐 Live Demo
-
-[🔗 View Live Preview](https://nufail-01.github.io/Fenix/)
+[![Website Preview](assets/images/.png
+)](https://nufail-01.github.io/Fenix/)
 
 ---
 
