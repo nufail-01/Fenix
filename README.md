@@ -1,16 +1,15 @@
-<h1 align="center">🚀 Fenix — Responsive Landing Page</h1>
+# 🚀 Fenix — Responsive Landing Page
 
-<p align="center">
-  🌐 A sleek and simple landing page built with <strong>HTML & CSS</strong><br>
-  🧪 Perfect for practicing responsive web design (Mobile-First!)
-</p>
+🌐 A sleek and simple landing page built with **HTML & CSS**  
+🧪 Perfect for practicing responsive web design (Mobile-First!)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-5-orange?logo=html5" />
-  <img src="https://img.shields.io/badge/CSS-3-blue?logo=css3" />
-  <img src="https://img.shields.io/badge/Responsive-Yes-green?logo=responsive" />
-  <img src="https://img.shields.io/badge/Beginner%20Friendly-Yes-brightgreen" />
-</p>
+## Tech Stack
+
+- ![HTML5](https://img.shields.io/badge/HTML-5-orange?logo=html5)
+- ![CSS3](https://img.shields.io/badge/CSS-3-blue?logo=css3)
+- ![Responsive](https://img.shields.io/badge/Responsive-Yes-green?logo=responsive)
+- ![Beginner Friendly](https://img.shields.io/badge/Beginner%20Friendly-Yes-brightgreen)
+
 
 ---
 
