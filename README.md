@@ -50,7 +50,7 @@ This project is built with a **mobile-first approach**, ensuring the design look
 
 ## 🌐 Live Demo
 
-[🔗 View Live Preview](https://nufail-01.github.io/Loruki-Cloud-Hosting/)
+[🔗 View Live Preview](https://nufail-01.github.io/Fenix/)
 
 ---
 
