@@ -41,8 +41,22 @@ This project is built with a **mobile-first approach**, ensuring the design look
 
 ---
 
-## 🔧 How to Run
+### 🖼️ Website Preview
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/nufail-01/Fenix.git
+[![Website Preview](assets/images/lorukiwebsite.png
+)](https://nufail-01.github.io/Loruki-Cloud-Hosting/)
+
+---
+
+## 🌐 Live Demo
+
+[🔗 View Live Preview](https://nufail-01.github.io/Loruki-Cloud-Hosting/)
+
+---
+
+## 💻 Source Code
+
+[🔗 GitHub Repository](https://github.com/nufail-01/Fenix.git)
+
+---
+
