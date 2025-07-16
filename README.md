@@ -43,7 +43,7 @@ This project is built with a **mobile-first approach**, ensuring the design look
 
 ## 🔗 Live Demo
 
-[![Website Preview](assets/images/.png
+[![Website Preview](assets/images/fenix.png
 )](https://nufail-01.github.io/Fenix/)
 
 ---
