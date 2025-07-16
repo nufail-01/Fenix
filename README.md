@@ -41,12 +41,10 @@ This project is built with a **mobile-first approach**, ensuring the design look
 
 ---
 
-### 🖼️ Website Preview
+### 🔗 Live Demo
 
 [![Website Preview](assets/images/lorukiwebsite.png
-)](https://nufail-01.github.io/Loruki-Cloud-Hosting/)
-
----
+)](https://(https://nufail-01.github.io/Fenix/))
 
 ## 🌐 Live Demo
 
