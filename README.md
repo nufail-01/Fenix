@@ -22,12 +22,14 @@
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
-- ![HTML5](https://img.shields.io/badge/HTML-5-orange?logo=html5)
-- ![CSS3](https://img.shields.io/badge/CSS-3-blue?logo=css3)
-- ![Responsive](https://img.shields.io/badge/Responsive-Yes-green?logo=responsive)
-- ![Beginner Friendly](https://img.shields.io/badge/Beginner%20Friendly-Yes-brightgreen)
+| Technology | Description              |
+|------------|--------------------------|
+| HTML5      | Markup structure         |
+| CSS3       | Styling and layout       |
+| Flexbox    | Responsive layout engine |
+| Media Queries | Device-specific styling |
 
 ---
 
