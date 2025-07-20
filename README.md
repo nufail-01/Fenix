@@ -15,7 +15,7 @@
 
 ---
 
-## 🔗 Live Demo
+## 🌐 Live Demo
 
 [![Website Preview](assets/images/fenix.png
 )](https://nufail-01.github.io/Fenix/)
