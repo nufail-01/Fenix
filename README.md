@@ -41,7 +41,7 @@ This project is built with a **mobile-first approach**, ensuring the design look
 
 ## 💻 Source Code
 
-[🔗 GitHub Repository](https://github.com/nufail-01/Fenix.git)
+🔗 GitHub Repository(https://github.com/nufail-01/Fenix.git)
 
 ---
 
