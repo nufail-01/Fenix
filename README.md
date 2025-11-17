@@ -1,4 +1,4 @@
-# 🚀 Fenix — Responsive Landing Page
+## 🚀 Fenix — Responsive Landing Page
 
 🌐 A sleek and simple landing page built with **HTML & CSS**  
 🧪 Perfect for practicing responsive web design (Mobile-First!)
