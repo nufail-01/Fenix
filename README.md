@@ -50,5 +50,3 @@ This project is built with a **mobile-first approach**, ensuring the design look
 🔗 [LinkedIn](https://www.linkedin.com/in/nufailshaikh/) 
 
 ---
----
-
