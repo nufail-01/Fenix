@@ -4,7 +4,7 @@
 🧪 Perfect for practicing responsive web design (Mobile-First!)
 
 ---
----
+
 ## ✨ Overview
 
 **Fenix** is a beginner-friendly responsive landing page project, created using only **HTML5** and **CSS3**. It's designed to help you build a strong foundation in:
